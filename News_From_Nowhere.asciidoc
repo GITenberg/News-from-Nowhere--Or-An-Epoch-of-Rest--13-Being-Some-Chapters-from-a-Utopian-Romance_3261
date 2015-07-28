@@ -1,8 +1,7 @@
 = News from Nowhere: Or, An Epoch of Rest; Being Some Chapters from a Utopian Romance
 William Morris
 
-
-== Chapter 1: Discussion and Bed
+== Discussion and Bed
 
 Up at the League, says a friend, there had been one night a brisk
 conversational discussion, as to what would happen on the Morrow of the
@@ -87,7 +86,7 @@ myself who had gone through them; which, indeed, will be the easier and
 more natural to me, since I understand the feelings and desires of the
 comrade of whom I am telling better than any one else in the world does.
 
-== Chapter 2: A Morning Bath
+== A Morning Bath
 
 Well, I awoke, and found that I had kicked my bedclothes off; and no
 wonder, for it was hot and the sun shining brightly.  I jumped up and
@@ -382,7 +381,7 @@ led to nothing, and which in truth by this time I should have begun to
 doubt myself.  And we all three turned toward the door of the Guest
 House.
 
-== Chapter 3: The Guest House and Breakfast Therein
+== The Guest House and Breakfast Therein
 
 I lingered a little behind the others to have a stare at this house,
 which, as I have told you, stood on the site of my old dwelling.
@@ -729,7 +728,7 @@ into the porch to see us off, waved their hands to us; the weaver nodded
 kindly; the dustman bowed as gracefully as a troubadour; Dick shook the
 reins, and we were off.
 
-== Chapter 4: A Market by the Way
+== A Market by the Way
 
 We turned away from the river at once, and were soon in the main road
 that runs through Hammersmith.  But I should have had no guess as to
@@ -839,11 +838,7 @@ must come along quick to my great-grandfather, who will understand you
 better than I do.  Come on, Greylocks!”  Therewith he shook the reins,
 and we jogged along merrily eastward.
 
-
-
-
-CHAPTER V: CHILDREN ON THE ROAD
-
+== Children on the Road
 
 Past the Broadway there were fewer houses on either side.  We presently
 crossed a pretty little brook that ran across a piece of land dotted over
@@ -1097,11 +1092,7 @@ mankind are chiefly of use to them for such work; for in that direction I
 can see no end to the work, while in many others a limit does seem
 possible.”
 
-
-
-
-CHAPTER VI: A LITTLE SHOPPING
-
+== A Little Shopping
 
 As he spoke, we came suddenly out of the woodland into a short street of
 handsomely built houses, which my companion named to me at once as
@@ -1399,11 +1390,7 @@ thought, for his usual good manners; and I laughed with him for company’s
 sake, but from the teeth outward only; for _I_ saw nothing funny in
 people not liking to work, as you may well imagine.
 
-
-
-
-CHAPTER VII: TRAFALGAR SQUARE
-
+== Trafalgar Square
 
 And now again I was busy looking about me, for we were quite clear of
 Piccadilly Market, and were in a region of elegantly-built much
@@ -1682,11 +1669,7 @@ to me, ‘Well rowed, stroke!’  ‘Put your back into it, bow!'"
 spell of work on, and good fellows merry about us; we feels so happy, you
 know.”  Again I pondered silently.
 
-
-
-
-CHAPTER VIII: AN OLD FRIEND
-
+== An Old Friend
 
 We now turned into a pleasant lane where the branches of great
 plane-trees nearly met overhead, but behind them lay low houses standing
@@ -1819,11 +1802,7 @@ He hesitated a little longer, then flushing up, took my hand, and saying,
 “Come along, then!” led me toward the door of one of the old official
 dwellings.
 
-
-
-
-CHAPTER IX: CONCERNING LOVE
-
+== Concerning Love
 
 “Your kinsman doesn’t much care for beautiful building, then,” said I, as
 we entered the rather dreary classical house; which indeed was as bare as
@@ -2229,11 +2208,7 @@ begets pleasure.  What do you think?”
 
 “I am much of that mind,” said I.
 
-
-
-
-CHAPTER X: QUESTIONS AND ANSWERS
-
+== Questions and Answers
 
 “Well,” said the old man, shifting in his chair, “you must get on with
 your questions, Guest; I have been some time answering this first one.”
@@ -2656,11 +2631,7 @@ was the chief business of the nineteenth century.”
 
 “It won’t take much trying,” said he.
 
-
-
-
-CHAPTER XI: CONCERNING GOVERNMENT
-
+== Concerning Government
 
 “Now,” said I, “I have come to the point of asking questions which I
 suppose will be dry for you to answer and difficult for you to explain;
@@ -2863,11 +2834,7 @@ free men manage your affairs.
 
 (H.)  With all my heart.  Ask away.
 
-
-
-
-CHAPTER XII: CONCERNING THE ARRANGEMENT OF LIFE
-
+== Concerning the Arrangement of Life
 
 “Well,” I said, “about those ‘arrangements’ which you spoke of as taking
 the place of government, could you give me any account of them?”
@@ -3071,11 +3038,7 @@ share they shall have in the privileged taxation of useful people, which
 was the business of the commercial folk in past days.  Well, what are you
 going to ask me next?”
 
-
-
-
-CHAPTER XIII: CONCERNING POLITICS
-
+== Concerning Politics
 
 Said I: “How do you manage with politics?”
 
@@ -3090,11 +3053,7 @@ model of old Horrebow’s Snakes in Iceland.”
 
 “I will,” said I.
 
-
-
-
-CHAPTER XIV: HOW MATTERS ARE MANAGED
-
+== How Matters Are Managed
 
 Said I: “How about your relations with foreign nations?”
 
@@ -3296,11 +3255,7 @@ He sat musing for a little, and then started and said: “Are there any
 more questions, dear guest?  The morning is waning fast amidst my
 garrulity?”
 
-
-
-
-CHAPTER XV: ON THE LACK OF INCENTIVE TO LABOUR IN A COMMUNIST SOCIETY
-
+== On the Lack of Incentive to Labour in a Communist Society
 
 “Yes,” said I.  “I was expecting Dick and Clara to make their appearance
 any moment: but is there time to ask just one or two questions before
@@ -3592,11 +3547,7 @@ the country is so big.”
 prospect of happiness before you.  But I should like to ask a few more
 questions, and then I have done for to-day.”
 
-
-
-
-CHAPTER XVI: DINNER IN THE HALL OF THE BLOOMSBURY MARKET
-
+== Dinner in the Hall of the Bloomsbury Market
 
 As I spoke, I heard footsteps near the door; the latch yielded, and in
 came our two lovers, looking so handsome that one had no feeling of shame
@@ -3635,7 +3586,9 @@ stairs into the forecourt of the Museum, leaving the two Hammonds to
 follow as they pleased.
 
 We went into the market-place which I had been in before, a thinnish
-stream of elegantly {1} dressed people going in along with us.  We turned
+stream of elegantly footnote:[“Elegant,” I mean, as a Persian pattern is elegant; not like a rich
+“elegant” lady out for a morning call.  I should rather call that
+genteel.] dressed people going in along with us.  We turned
 into the cloister and came to a richly moulded and carved doorway, where
 a very pretty dark-haired young girl gave us each a beautiful bunch of
 summer flowers, and we entered a hall much bigger than that of the
@@ -3742,11 +3695,7 @@ written or painted about.”
 Dick answered her with some lover’s speech, impossible to be written
 down, and then we sat quiet a little.
 
-
-
-
-CHAPTER XVII: HOW THE CHANGE CAME
-
+== How the Change Came
 
 Dick broke the silence at last, saying: “Guest, forgive us for a little
 after-dinner dulness.  What would you like to do?  Shall we have out
@@ -4673,11 +4622,7 @@ became clear to all men that the cause which was once hopeless, was now
 triumphant, and that the hopeless cause was that of slavery and
 privilege.”
 
-
-
-
-CHAPTER XVIII: THE BEGINNING OF THE NEW LIFE
-
+== The Beginning of the New Life
 
 “Well,” said I, “so you got clear out of all your trouble.  Were people
 satisfied with the new order of things when it came?”
@@ -4846,11 +4791,7 @@ an end of my talk; which I daresay you will not be sorry for; the long
 day is coming to an end, and you will have a pleasant ride back to
 Hammersmith.”
 
-
-
-
-CHAPTER XIX: THE DRIVE BACK TO HAMMERSMITH
-
+== The Drive Back to Hammersmith
 
 I said nothing, for I was not inclined for mere politeness to him after
 such very serious talk; but in fact I should liked to have gone on
@@ -5041,11 +4982,7 @@ wasting our time in making ourselves look pleasant to each other.”
 he wants to have.  I will look something out for him before he gets up to-
 morrow.”
 
-
-
-
-CHAPTER XX: THE HAMMERSMITH GUEST-HOUSE AGAIN
-
+== The Hammersmith Guest-House Again
 
 Amidst such talk, driving quietly through the balmy evening, we came to
 Hammersmith, and were well received by our friends there.  Boffin, in a
@@ -5091,11 +5028,7 @@ fear as it drew toward bed-time concerning the place wherein I should
 wake on the morrow: but I choked that down, and went to bed happy, and in
 a very few moments was in a dreamless sleep.
 
-
-
-
-CHAPTER XXI: GOING UP THE RIVER
-
+== Going Up the River
 
 When I did wake, to a beautiful sunny morning, I leapt out of bed with my
 over-night apprehension still clinging to me, which vanished delightfully
@@ -5187,11 +5120,7 @@ worthy of the sweet abundance of midsummer, of its endless wealth of
 beautiful sights, and delicious sounds and scents.  And now, the world
 had grown old and wiser, and I was to see my hope realised at last!
 
-
-
-
-CHAPTER XXII: HAMPTON COURT AND A PRAISER OF PAST TIMES
-
+== Hampton Court and a Praiser of Past Times
 
 So on we went, Dick rowing in an easy tireless way, and Clara sitting by
 my side admiring his manly beauty and heartily good-natured face, and
@@ -5542,11 +5471,7 @@ quite extinguished my fear of the last night, that I should wake up in
 the old miserable world of worn-out pleasures, and hopes that were half
 fears.
 
-
-
-
-CHAPTER XXIII: AN EARLY MORNING BY RUNNYMEDE
-
+== An Early Morning by Runnymede
 
 Though there were no rough noises to wake me, I could not lie long abed
 the next morning, where the world seemed so well awake, and, despite the
@@ -5751,11 +5676,7 @@ only the guest, friends; but I know you want to show me your river at its
 best, so don’t you think we had better be moving presently, as it is
 certainly going to be a hot day?”
 
-
-
-
-CHAPTER XXIV: UP THE THAMES: THE SECOND DAY
-
+== Up the Thames: The Second Day
 
 They were not slow to take my hint; and indeed, as to the mere time of
 day, it was best for us to be off, as it was past seven o’clock, and the
@@ -6066,11 +5987,7 @@ expect society to whitewash him by punishing him.  I had no fear any
 longer that “the sacredness of human life” was likely to suffer amongst
 my friends from the absence of gallows and prison.
 
-
-
-
-CHAPTER XXV: THE THIRD DAY ON THE THAMES
-
+== The Third Day on the Thames
 
 As we went down to the boat next morning, Walter could not quite keep off
 the subject of last night, though he was more hopeful than he had been
@@ -6214,11 +6131,7 @@ they sailed off to the higher ground of the downs.  I concluded from all
 this that the days of the gamekeeper were over, and did not even need to
 ask Dick a question about it.
 
-
-
-
-CHAPTER XXVI: THE OBSTINATE REFUSERS
-
+== The Obstinate Refusers
 
 Before we parted from these girls we saw two sturdy young men and a woman
 putting off from the Berkshire shore, and then Dick bethought him of a
@@ -6383,11 +6296,7 @@ down the slope to our boat, and before we had gone many steps heard the
 full tune of tinkling trowels mingle with the humming of the bees and the
 singing of the larks above the little plain of Basildon.
 
-
-
-
-CHAPTER XXVII: THE UPPER WATERS
-
+== The Upper Waters
 
 We set Walter ashore on the Berkshire side, amidst all the beauties of
 Streatley, and so went our ways into what once would have been the deeper
@@ -6756,11 +6665,7 @@ passed a weir a little higher up, and about three miles beyond it came by
 moonlight again to a little town, where we slept at a house thinly
 inhabited, as its folk were mostly tented in the hay-fields.
 
-
-
-
-CHAPTER XXVIII: THE LITTLE RIVER
-
+== The Little River
 
 We started before six o’clock the next morning, as we were still twenty-
 five miles from our resting place, and Dick wanted to be there before
@@ -6902,11 +6807,7 @@ concluded she smiling.
 
 “I should have plenty to think of,” said I.
 
-
-
-
-CHAPTER XXIX: A RESTING-PLACE ON THE UPPER THAMES
-
+== A Resting-Place on the Upper Thames
 
 Presently at a place where the river flowed round a headland of the
 meadows, we stopped a while for rest and victuals, and settled ourselves
@@ -7064,11 +6965,7 @@ true, that I thought it most important; and presently stood entranced by
 the wonder of her grace as she stepped into the light boat, and held out
 her hand to me.  And so on we went up the Thames still—or whither?
 
-
-
-
-CHAPTER XXX: THE JOURNEY’S END
-
+== The Journey's End
 
 On we went.  In spite of my new-born excitement about Ellen, and my
 gathering fear of where it would land me, I could not help taking
@@ -7084,8 +6981,11 @@ of water-engineering, so that the most obviously useful works looked
 beautiful and natural also.  All this, I say, pleased me hugely, and she
 was pleased at my pleasure—but rather puzzled too.
 
-“You seem astonished,” she said, just after we had passed a mill {2}
-which spanned all the stream save the water-way for traffic, but which
+“You seem astonished,” she said, just after we had passed a mill
+footnote:[I should have said that all along the Thames there were abundance of
+mills used for various purposes; none of which were in any degree
+unsightly, and many strikingly beautiful; and the gardens about them
+marvels of loveliness.] which spanned all the stream save the water-way for traffic, but which
 was as beautiful in its way as a Gothic cathedral—“You seem astonished
 at this being so pleasant to look at.”
 
@@ -7267,11 +7167,7 @@ the river to the plain and the plain to the uplands, which I could
 picture to myself so well, all peopled now with this happy and lovely
 folk, who had cast away riches and attained to wealth.
 
-
-
-
-CHAPTER XXXI: AN OLD HOUSE AMONGST NEW FOLK
-
+== An Old House Amongst New Folk
 
 As I stood there Ellen detached herself from our happy friends who still
 stood on the little strand and came up to me.  She took me by the hand,
@@ -7451,11 +7347,7 @@ Clara came out of the fields as he spoke; and with one look at Ellen I
 turned and went with Dick, doubting, if I must say the truth, whether I
 should see her again.
 
-
-
-
-CHAPTER XXXII: THE FEAST’S BEGINNING—THE END
-
+== The Feast’s Beginning—The End
 
 Dick brought me at once into the little field which, as I had seen from
 the garden, was covered with gaily-coloured tents arranged in orderly
@@ -7534,11 +7426,9 @@ so you mustn’t take it to heart.”
 “All right,” said I; “I don’t.”  Yet I did feel somewhat uneasy at his
 words, after all.
 
-We crossed the causeway this time, and did not turn back to the house,
+[[source-page-234]]We crossed the causeway this time, and did not turn back to the house,
 but went along a path beside a field of wheat now almost ready to
-blossom.  I said:
-
-“We do not dine in the house or garden, then?—as indeed I did not expect
+blossom.  I said: “We do not dine in the house or garden, then?—as indeed I did not expect
 to do.  Where do we meet, then?  For I can see that the houses are mostly
 very small.”
 
@@ -7547,7 +7437,8 @@ there are so many good old houses left, that people dwell a good deal in
 such small detached houses.  As to our dinner, we are going to have our
 feast in the church.  I wish, for your sake, it were as big and handsome
 as that of the old Roman town to the west, or the forest town to the
-north; {3} but, however, it will hold us all; and though it is a little
+north; footnote:[Cirencester and Burford he must have meant.]
+but, however, it will hold us all; and though it is a little
 thing, it is beautiful in its way.”
 
 This was somewhat new to me, this dinner in a church, and I thought of
@@ -7635,7 +7526,7 @@ of my childish days; and for a while I was conscious of nothing else than
 being in the dark, and whether I was walking, or sitting, or lying down,
 I could not tell.
 
-*  * *
+***
 
 I lay in my bed in my house at dingy Hammersmith thinking about it all;
 and trying to consider if I was overwhelmed with despair at finding I had
@@ -7655,7 +7546,7 @@ the unhappiness of the past that our happiness even would weary you.  Go
 back again, now you have seen us, and your outward eyes have learned that
 in spite of all the infallible maxims of your day there is yet a time of
 rest in store for the world, when mastery has changed into fellowship—but
-not before.  Go back again, then, and while you live you will see all
+not before.  Go back again, then, and while [[source-page-238]] you live you will see all
 round you people engaged in making others live lives which are not their
 own, while they themselves care nothing for their own real lives—men who
 hate life though they fear death.  Go back and be the happier for having
@@ -7667,20 +7558,4 @@ happiness.”
 Yes, surely! and if others can see it as I have seen it, then it may be
 called a vision rather than a dream.
 
-
-
-
-FOOTNOTES:
-
-
-{1}  “Elegant,” I mean, as a Persian pattern is elegant; not like a rich
-“elegant” lady out for a morning call.  I should rather call that
-genteel.
-
-{2}  I should have said that all along the Thames there were abundance of
-mills used for various purposes; none of which were in any degree
-unsightly, and many strikingly beautiful; and the gardens about them
-marvels of loveliness.
-
-{3}  Cirencester and Burford he must have meant.
-
+THE END.
