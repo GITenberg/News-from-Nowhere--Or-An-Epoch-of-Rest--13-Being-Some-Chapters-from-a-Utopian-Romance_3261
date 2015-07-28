@@ -1,0 +1,6 @@
+before_install:
+  - sudo apt-get install asciidoc
+script:
+  a2x --format=epub News_From_Nowhere.asciidoc
+addons:
+  artifacts: true
