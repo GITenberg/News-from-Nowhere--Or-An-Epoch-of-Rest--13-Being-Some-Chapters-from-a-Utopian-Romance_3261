@@ -14,13 +14,17 @@ If you find an error in a book in GITenberg, you can report it by clicking the I
 
 Technical details
 =================
-The main source file for this book will be a file with the name `News_From_Nowhere.asciidoc` with a file extension (ex. `.txt`, `.rst`, `.tei`, `.tex`). Some books also contain generated ebooks, html versions, and images/figures from the text as image files. Eventually, there will be generated ebooks in the downloads area.
+The main source file for this book is a file with the name `News-from-Nowhere.asciidoc`. Some books also contain generated ebooks, html versions, and images/figures from the text as image files. Eventually, there will be generated ebooks in the downloads area.
 
 Every repository in GITenberg contains a number of standard files, including a license text, a metadata file, and this readme file.
 
 This ebook is being proofread against the following edition:
 https://archive.org/details/newsfromnowhereo00morriala
 
+To build the epub, first clone the following two repositories into this directory, and then run `build.sh`:
+
+    git clone https://github.com/gitenberg-dev/asciidoctor-htmlbook.git
+    git clone https://github.com/gitenberg-dev/HTMLBook
 
 About Project Gutenberg
 =======================
