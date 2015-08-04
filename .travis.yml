@@ -1,0 +1,22 @@
+language: ruby
+before_install:
+- gem install asciidoctor tilt
+script:
+- git clone https://github.com/gitenberg-dev/asciidoctor-htmlbook.git
+- git clone https://github.com/gitenberg-dev/HTMLBook
+- build.sh
+branches:
+  only:
+  - master
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: 
+  file: News-from-Nowhere.epub
+  on:
+    repo: GITenberg/News-from-Nowhere--Or-An-Epoch-of-Rest--13-Being-Some-Chapters-from-a-Utopian-Romance_3261
+addons:
+  apt:
+    packages:
+    - xsltproc

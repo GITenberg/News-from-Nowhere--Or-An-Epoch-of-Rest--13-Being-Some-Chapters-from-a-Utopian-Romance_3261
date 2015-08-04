@@ -1,0 +1,19 @@
+_version: 2.0.0
+creator:
+  author:
+    agent_name: Morris, William
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    wikipedia: https://en.wikipedia.org/wiki/William_Morris
+description: 'Wikipedia: https://en.wikipedia.org/wiki/News_from_Nowhere'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3261'
+  openlibrary: '/works/OL278694W'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: News from Nowhere
+url: http://www.gutenberg.org/ebooks/3261
