@@ -1,22 +1,61 @@
+sudo: required
+dist: trusty
 language: ruby
+
 before_install:
-- gem install asciidoctor tilt
+before_install:
+- gem install asciidoctor -v 1.5.2
+- gem install tilt
+- sudo pip install git+https://github.com/gitenberg-dev/gitberg
+- sudo pip install pillow
+- sudo pip install cssutils
+- sudo pip install docutils
+- sudo pip install roman
+- sudo pip install git+https://github.com/gitenberg-dev/pg-epubmaker
 script:
+- VERSION=`ruby -e "require 'yaml'; meta = YAML.load_file('metadata.yaml'); puts meta['_version'];"`
 - git clone https://github.com/gitenberg-dev/asciidoctor-htmlbook.git
-- git clone https://github.com/gitenberg-dev/HTMLBook
-- build.sh
+- sudo pip install -r asciidoctor-htmlbook/gitberg-machine/requirements.txt
+
+- /usr/bin/python -c "from gitenberg import travis; travis.build_epub()"
+- ebook-convert book.epub book.mobi
+- xvfb-run ebook-convert book.epub book.pdf
 branches:
   only:
   - master
+notifications:
+  webhooks:
+    urls:
+      - https://unglue.it/api/travisci/webhook
+    on_success: always
+    on_failure: never
+    on_start: never
 deploy:
   skip_cleanup: true
   provider: releases
   api_key:
-    secure: 
-  file: News-from-Nowhere.epub
-  on:
-    repo: GITenberg/News-from-Nowhere--Or-An-Epoch-of-Rest--13-Being-Some-Chapters-from-a-Utopian-Romance_3261
+    secure: HU53XusLZs4z9CrDUTkQn/PuKItCNHvYVUD5yDMnO4GQ8NRvHx69mK7T7CZTw/IfJsGSnIksYJMOuxzWOARSQK8zMe6DtV2sHCTbO/D02fnv6uwcN4CIRI7L9NIGOy3TpwR4D2m6a3ETG9L4SSbEfoir7oYZ8/ck4atYijuavxNH1hpUTiOgfO2cc8OWUgNcg/6DLEbDwJMArT6Ui25mcjQZR7LL5eN4nGycoVEIRRyfeBeVwrIkrmel8krGaMKc1H2hvLrKvXKPmvww5N1ODCzQtXM9CEPYv9XrnprnwU3+bYQ/5COE5NVT114WI3tVns14Zg7DitX1hFQDrPaAYsFaCr+3H2nGMgh9JQ+/bjvKg3CQmvz9zEqE0MyglEYE8NCMxJZB6MyhzRKvso/13ptmdfnQD+fzE03tZd2zrySyiw6RSy8k38J+O2d4zH0cfyLJIDh6TtBRVzm44IgXn2Ylm5XEQ0C4QyjjjvRWCciiKVROaIYSvM73347YaFx+vcOHCAgWlLk6j5KqiTCRkjbyA8h9mEjMOsntyJ0h97LKmXcfFMJC8/heEtaPHDVF/+NaB/XYBHYtsiwafbLR/ioKMKe9WFm+eEYQ1aXCGu+ulDH9rcSu1zqtW3l0OUwC7WurSgt/gEFNkoTlvOHh+kAgPY/cy+zCqntePZT9gTc=
+  file:
+    - book.epub
+    - book.mobi
+    - book.pdf
+  "on":
+    repo: GITenberg/None
 addons:
   apt:
     packages:
     - xsltproc
+    - xvfb
+    - calibre
+    - python-pip
+    - git
+    - python-dev
+    - libjpeg-dev
+    - libpng-dev
+    - libfreetype6
+    - libfreetype6-dev
+    - zlib1g-dev
+    - python-lxml
+    - libxml2-dev
+    - libxslt1-dev
+    - tidy
