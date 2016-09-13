@@ -1,4 +1,4 @@
-_version: 2.0.0
+_version: 2.0.1
 creator:
   author:
     agent_name: Morris, William
@@ -10,7 +10,7 @@ description: 'Wikipedia: https://en.wikipedia.org/wiki/News_from_Nowhere'
 gutenberg_type: Text
 identifiers:
   gutenberg: '3261'
-  openlibrary: '/works/OL278694W'
+  openlibrary: /works/OL278694W
 language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
