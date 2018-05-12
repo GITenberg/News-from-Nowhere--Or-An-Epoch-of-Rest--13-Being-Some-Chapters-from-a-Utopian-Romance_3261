@@ -1,4 +1,7 @@
-_version: 2.0.1
+_version: 2.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, William
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '107'
     wikipedia: https://en.wikipedia.org/wiki/William_Morris
 description: 'Wikipedia: https://en.wikipedia.org/wiki/News_from_Nowhere'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3261#book
 gutenberg_type: Text
 identifiers:
   gutenberg: '3261'
