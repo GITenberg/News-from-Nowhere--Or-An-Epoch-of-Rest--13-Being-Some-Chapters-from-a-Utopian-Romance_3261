@@ -19,6 +19,7 @@ Author: William Morris
 
 
 Release Date: May 8, 2007  [eBook #3261]
+Last Updated: November 21, 2015
 
 Language: English
 
@@ -412,7 +413,7 @@ Oxfordshire.  You could hardly do better if you want to see the country."
 I felt myself obliged to thank him, whatever might come of it; and he
 added eagerly:
 
-"Well, then, that's settled.  I will give my friend call; he is living in
+"Well, then, that's settled.  I will give my friend a call; he is living in
 the Guest House like you, and if he isn't up yet, he ought to be this
 fine summer morning."
 
@@ -1286,7 +1287,7 @@ that every Jack may have his Jill: else I fear that we should get
 fighting for them.  Indeed," said he, becoming very grave, "I don't say
 that it does not happen even now, sometimes.  For you know love is not a
 very reasonable thing, and perversity and self-will are commoner than
-some of our moralist's think."  He added, in a still more sombre tone:
+some of our moralists think."  He added, in a still more sombre tone:
 "Yes, only a month ago there was a mishap down by us, that in the end
 cost the lives of two men and a woman, and, as it were, put out the
 sunlight for us for a while.  Don't ask me about it just now; I may tell
@@ -3553,8 +3554,9 @@ called, and thereby he 'created new wants,' to supply which (that is, to
 be allowed to live by their new masters) the hapless, helpless people had
 to sell themselves into the slavery of hopeless toil so that they might
 have something wherewith to purchase the nullities of 'civilisation.'
-Ah," said the old man, pointing the dealings of to the Museum, "I have
-read books and papers in there, telling strange stories indeed of
+
+"Ah," said the old man, pointing to the Museum, "I have read books and
+papers in there, telling strange stories indeed of the dealings of
 civilisation (or organised misery) with 'non-civilisation'; from the time
 when the British Government deliberately sent blankets infected with
 small-pox as choice gifts to inconvenient tribes of Red-skins, to the
@@ -3769,7 +3771,7 @@ beautifully ornamented; the only porcelain being here and there a piece
 of old oriental ware.  The glass, again, though elegant and quaint, and
 very varied in form, was somewhat bubbled and hornier in texture than the
 commercial articles of the nineteenth century.  The furniture and general
-fittings of the ball were much of a piece with the table-gear, beautiful
+fittings of the hall were much of a piece with the table-gear, beautiful
 in form and highly ornamented, but without the commercial "finish" of the
 joiners and cabinet-makers of our time.  Withal, there was a total
 absence of what the nineteenth century calls "comfort"--that is, stuffy
@@ -7200,7 +7202,7 @@ Ellen laughed heartily.  "Well," she said, "that is not stated clearly
 enough in our history-books, and it is worth knowing.  But certainly the
 people of those days must have been a curiously lazy set.  We are not
 either fidgety or quarrelsome now, but if any one tried such a piece of
-folly on us, we should use the said waterways, whoever gaidsaid us:
+folly on us, we should use the said waterways, whoever gainsaid us:
 surely that would be simple enough.  However, I remember other cases of
 this stupidity: when I was on the Rhine two years ago, I remember they
 showed us ruins of old castles, which, according to what we heard, must
